@@ -1,4 +1,4 @@
-#include "tool.h"
+#include "..\tool.h"
 
 using namespace std;
 
