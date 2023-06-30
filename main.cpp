@@ -1,10 +1,10 @@
 #include ".\sort\solution148.h"
-#include ".\sort\quickSort.h"
+#include ".\sort\mergeSort.h"
 
 int main()
 {
     Solution S;
     S.test();
-    TestQuickSort();
+    TestMergeSort();
     return 0;
 }
